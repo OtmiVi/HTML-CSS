@@ -1,0 +1,37 @@
+.content{
+    box-sizing: border-box;
+    max-width: 1219px;
+    height: 84px;
+    margin: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+    color: #FFFFFF;
+}
+.size{
+    background-size: cover;
+    background-position: center;
+}
+header {
+    background-color: #007765;
+}
+#icon{
+    margin-top: 20px;
+    margin-bottom: 19px;
+}
+#links{
+    margin-top: 29px;
+    margin-bottom: 26px;
+    font-size: 24px;
+    float: right;
+    clear: both;
+}
+.fon{
+    background-image: url("img/Fone.png");
+    height: 403px;
+}
+#title{
+    font-size: 72px;
+    line-height: 84px;
+    padding: 160px;
+    text-align: center;
+}
